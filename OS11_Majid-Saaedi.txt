@@ -15,7 +15,7 @@ Computer Engineer\\
 Sadjad University\\
 Mashhad , Iran\\
 \section*{Image}
-\includegraphics{cer.jpg}
+\includegraphics{exp.jpg}
 \section*{\\Table}
 \begin{table}[h!]
 \begin{center}
@@ -30,9 +30,7 @@ Mashhad , Iran\\
 \end{center}
 \end{table}
 \section*{Math}
-\begin{align*}
-  F(x) &= \int^a_b \ x^3 dx
-\end{align*}
+F(x) &= \int^a_b \ x^3 dx
 \section*{Code}
 \begin{lstlisting}
 int main()
