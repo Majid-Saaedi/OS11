@@ -13,6 +13,8 @@ Majid Saaedi\\
 February 27 , 2000\\
 Computer Engineer\\
 Sadjad University\\
+UI UX Designer\\
+Gamer\\
 Mashhad , Iran\\
 \section*{Image}
 \includegraphics{exp.jpg}
