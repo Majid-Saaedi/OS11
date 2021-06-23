@@ -52,8 +52,6 @@
 
     \textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
 
-    $\alpha$ & $\beta$ & $\gamma$ \\
-
     \hline
 
     1 & 4 & 7\\
