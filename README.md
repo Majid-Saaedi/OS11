@@ -34,6 +34,10 @@
 
     Sadjad University\\
 
+    UI UX Designer\\
+    
+    Gamer\\
+
     Mashhad , Iran\\
 
     \section*{Image}
