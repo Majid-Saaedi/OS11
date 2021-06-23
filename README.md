@@ -38,7 +38,7 @@
 
     \section*{Image}
 
-    \includegraphics{cer.jpg}
+    \includegraphics{exp.jpg}
 
     \section*{\\Table}
 
@@ -68,11 +68,7 @@
 
     \section*{Math}
 
-    \begin{align*}
-
-      F(x) &= \int^a_b \ x^3 dx
-
-    \end{align*}
+    F(x) &= \int^a_b \ x^3 dx
 
     \section*{Code}
 
